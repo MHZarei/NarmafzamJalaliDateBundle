@@ -1,7 +1,7 @@
 {
-  "name" : "narmafzam/jalali-date-bundle",
+  "name" : "mhzarei/jalali-date-bundle",
   "type" : "symfony-bundle",
-  "description" : "A symfony 3 bundle to handle Jalali date including a date picker",
+  "description" : "A symfony 5 bundle to handle Jalali date including a date picker",
   "keywords" : ["Symfony jalali shamsi khorshidi persian date picker bundle"],
   "license": "MIT",
   "authors" : [
