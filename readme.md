@@ -3,7 +3,7 @@
 README
 ======
 
-**A symfony 3 bundle to handle Jalali date including a date picker**
+**A symfony 5.4 bundle to handle Jalali date including a date picker**
 
 [](#user-content-install)Install
 --------------------------------
